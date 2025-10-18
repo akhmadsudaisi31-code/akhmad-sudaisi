@@ -27,11 +27,11 @@ Website ini berfungsi sebagai CV digital yang interaktif. Pengunjung dapat denga
 Proyek ini adalah website statis dan tidak memerlukan proses *build* yang kompleks.
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+    git clone https://github.com/akhmadsudaisi31-code/akhmad-sudaisi.git
     ```
 2.  **Navigasi ke direktori proyek:**
     ```bash
-    cd nama-repo
+    cd akhmad-sudaisi
     ```
 3.  **Buka file `index.html`** di browser pilihan Anda. Selesai!
 
@@ -42,4 +42,5 @@ Sesuai dengan brief proyek, model AI **IBM Granite** digunakan selama fase penge
 1.  **Pembuatan Komentar Kode:** AI digunakan untuk menghasilkan komentar penjelasan di seluruh file `index.html`, `style.css`, dan `script.js`. Tujuannya adalah untuk membuat kode lebih mudah dibaca dan dipahami, mendokumentasikan fungsi setiap blok kode secara langsung.
 2.  **Struktur dan Konten `README.md`:** AI membantu dalam menyusun kerangka dan menulis konten untuk file `README.md` ini, termasuk deskripsi, daftar fitur, dan penjelasan teknis.
 3.  **Pengembangan Fitur Spesifik:** AI memberikan *snippet* kode HTML dan CSS untuk fitur **kartu flip 3D** pada bagian "Achievements". Ini termasuk debugging awal saat animasi tidak berjalan karena struktur HTML dan properti CSS yang kurang tepat.
+
 4.  **Penjelasan Konsep Kompleks:** AI memberikan penjelasan mendalam tentang properti CSS yang krusial untuk efek 3D, seperti `perspective`, `transform-style`, dan `backface-visibility`, yang memastikan fitur tersebut berfungsi sesuai harapan.
